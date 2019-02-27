@@ -1,11 +1,14 @@
-# Example Package
+# argotools
 
 
 
 The  following  code  libraries  were  developed  by  myself  with  the  purpose  of  providing
 anyone who would like to check the reproducibility of results in any of my publications or
 that would like start working in the area of digital disease surveillance and have a tool that
-helps them leverage all the process from data extraction to model benchmarking.The following software libraries are presented:
+helps them leverage all the process from data extraction to model benchmarking.
+
+
+The following software libraries are presented:
 
 1.  DBscrape:  DBscrape is a library developed to mine data from various online datasources (Such as Google Correlate, Google Trends API, Flunet, and IMSS sinave)
 that are used for producing Influenza surveillance in Latin America.
