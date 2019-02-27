@@ -8,6 +8,12 @@ that would like start working in the area of digital disease surveillance and ha
 helps them leverage all the process from data extraction to model benchmarking.
 
 
+Here's a few articles which using this library can aid in reproducing results:
+
+https://www.nature.com/articles/s41467-018-08082-0
+
+https://preprints.jmir.org/preprint/12214/accepted
+
 The following software libraries are presented:
 
 1.  DBscrape:  DBscrape is a library developed to mine data from various online datasources (Such as Google Correlate, Google Trends API, Flunet, and IMSS sinave)
@@ -20,4 +26,5 @@ scaled to multiple areas
 4.  Visualizer: A library that’s used to benchmark and visualize the input data to aid inthe EDA and also the results
 generated form the models in Experiment
 
-All code is developed using Python version 3.4
+
+All code is developed using Python version 3.4 and is being tested in version 3.6.
