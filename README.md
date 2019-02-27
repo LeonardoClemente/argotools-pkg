@@ -11,7 +11,7 @@ helps them leverage all the process from data extraction to model benchmarking.
 The following software libraries are presented:
 
 1.  DBscrape:  DBscrape is a library developed to mine data from various online datasources (Such as Google Correlate, Google Trends API, Flunet, and IMSS sinave)
-that are used for producing Influenza surveillance in Latin America.
+that are used for producing Influenza disease surveillance.
 2.  Data:  A library designed to read data from multiple sources and merges them into
 an object that that contains some pre-processing functions and filters that prepares
 the data for the experiment.
