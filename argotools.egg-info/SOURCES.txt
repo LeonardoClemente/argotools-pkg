@@ -1,0 +1,6 @@
+README.md
+setup.py
+argotools.egg-info/PKG-INFO
+argotools.egg-info/SOURCES.txt
+argotools.egg-info/dependency_links.txt
+argotools.egg-info/top_level.txt
