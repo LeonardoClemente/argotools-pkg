@@ -244,9 +244,8 @@ class SINAVE:
 
 class GT:
     def __init__(self, webdriver_path=None, download_folder=None ):
-        print('Thank you for using DBscrape for google correlate! please use our \
-              \n read me to see a simple tutorial on how to use it. GCpy opens a\
-              \n web browser using both Selenium and chrome webdriver libraries. \n\n')
+        print('Thank you for using DBscrape for Google Trends! please use our \
+              \n read me to see a simple tutorial on how to use it.')
 
         #Browser wait times
         #soptions = webdriver.ChromeOptions()
@@ -274,7 +273,7 @@ class GT:
                   \n Any other activity is not part os the scope in GCpy and should be inmediately.\n\n')
 
         try:
-            self.driver.get(GMAIL_LOGIN_URL)
+            self.driver.get(dbScrapeVars.GMAIL_LOGIN_URL)
             time.sleep(self.wait_time_get)
             self.driver.find_element_by_name("identifier").send_keys(user)
             self.driver.find_element_by_id("identifierNext").click()

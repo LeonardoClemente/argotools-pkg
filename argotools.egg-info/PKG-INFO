@@ -6,17 +6,26 @@ Home-page: UNKNOWN
 Author: Leonardo Clemente
 Author-email: clemclem1991@gmail.com
 License: UNKNOWN
-Description: # Example Package
+Description: # argotools
         
         
         
         The  following  code  libraries  were  developed  by  myself  with  the  purpose  of  providing
         anyone who would like to check the reproducibility of results in any of my publications or
         that would like start working in the area of digital disease surveillance and have a tool that
-        helps them leverage all the process from data extraction to model benchmarking.The following software libraries are presented:
+        helps them leverage all the process from data extraction to model benchmarking.
+        
+        
+        Here's a few articles which using this library can aid in reproducing results:
+        
+        https://www.nature.com/articles/s41467-018-08082-0
+        
+        https://preprints.jmir.org/preprint/12214/accepted
+        
+        The following software libraries are presented:
         
         1.  DBscrape:  DBscrape is a library developed to mine data from various online datasources (Such as Google Correlate, Google Trends API, Flunet, and IMSS sinave)
-        that are used for producing Influenza surveillance in Latin America.
+        that are used for producing Influenza disease surveillance.
         2.  Data:  A library designed to read data from multiple sources and merges them into
         an object that that contains some pre-processing functions and filters that prepares
         the data for the experiment.
@@ -25,7 +34,8 @@ Description: # Example Package
         4.  Visualizer: A library that’s used to benchmark and visualize the input data to aid inthe EDA and also the results
         generated form the models in Experiment
         
-        All code is developed using Python version 3.4
+        
+        All code is developed using Python version 3.4 and is being tested in version 3.6.
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
