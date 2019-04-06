@@ -12,7 +12,7 @@ Here's a few articles which using this library can aid in reproducing results:
 
 https://www.nature.com/articles/s41467-018-08082-0
 
-https://preprints.jmir.org/preprint/12214/accepted
+https://publichealth.jmir.org/2019/2/e12214/
 
 The following software libraries are presented:
 
